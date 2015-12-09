@@ -50,7 +50,6 @@ var main = function(str) {
 
 var test = "";
 var i = 300;
-while (i--)
-  test += "a";
+while (i--) test += "a";
 
 main(test);
